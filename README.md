@@ -10,3 +10,7 @@ VeeValidate is the most popular Vue.js form library. It takes care of value trac
 ### https://vitepress.dev/
 Vite & Vue Powered Static Site Generator. Simple, powerful, and fast. Meet the modern SSG framework you've always wanted.
 
+# Vue Toastification
+### https://vue-toastification.maronato.dev/
+Light, easy and beautiful toasts
+
