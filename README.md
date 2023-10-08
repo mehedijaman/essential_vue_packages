@@ -14,3 +14,6 @@ Vite & Vue Powered Static Site Generator. Simple, powerful, and fast. Meet the m
 ### https://vue-toastification.maronato.dev/
 Light, easy and beautiful toasts
 
+# 📈 vue-chartjs
+### https://vue-chartjs.org/
+⚡ Easy and beautiful charts with Chart.js and Vue.js
